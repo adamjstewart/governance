@@ -30,6 +30,9 @@ The TorchGeo Organization is led by folks from the following organizations:
   <source media="(prefers-color-scheme: light)" srcset="logos/space42_light.svg"/>
   <img alt="Space42" src="logos/space42_light.svg" width="300"/>
 </picture>
+<br/>
+<br/>
+<img alt="IBM" src="logos/ibm.svg" width="300"/>
 
 ## History
 
