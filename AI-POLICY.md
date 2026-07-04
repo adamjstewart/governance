@@ -30,7 +30,9 @@ Fully autonomous or "agentic" AI contributions are not accepted as AI cannot hol
 
 ### Communication
 
-All communication with maintainers, including descriptions and comments on issues and PRs, should be made by humans. When you report an issue, we want to see you describe the issue in your own words to ensure you spent time debugging it. Similarly, when you open a PR, we want to see you summarize your implementation without AI assistance to guarantee you understand your own contribution. We may ask clarifying questions or suggest improvements to your PR. Please refrain from using AI to automatically respond to maintainer questions. It is fine to use AI for proofreading (typos/grammar) or translation, however.
+For issues and PR descriptions, we expect you to use AI only as a tool, not a replacement for understanding the issue or code involved. Generated text tends to be overly verbose, and can become a strain on project maintainers over time. You are expected to maintain editorial control over your descriptions, and ensure that your posts are concise and accurate.
+
+You may not use agentic tools to automatically respond to maintainers. Once a human maintainer is involved in responding to your issue or PR, we expect to be communicating with you, not your agents.
 
 ### Conciseness
 
